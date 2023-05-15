@@ -1,0 +1,39 @@
+body{
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 19%, rgba(124,66,189,1) 58%, rgba(0,212,255,1) 89%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: rgb(0, 174, 255);
+}
+
+th{
+    /* background-color: black; */
+    padding: 15px;
+    color: rgb(34, 223, 166);
+}
+
+table{
+    border-style: solid;
+}
+
+td{
+    text-align: center;
+    padding: 15px;
+}
+
+.logout{
+    border: 2px solid white;
+    padding: 7px;
+}
